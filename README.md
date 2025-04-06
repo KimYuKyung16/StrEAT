@@ -93,7 +93,7 @@ $ cd ./backend
 
 ## 아키텍처
 
-<img src="https://github.com/user-attachments/assets/5dd99207-089a-4cb4-a4d9-6a7588fc9df7">
+![Image](https://github.com/user-attachments/assets/5423b6a1-fd7a-4efd-a7df-8a209aa78fe4)
 
 ## 주요 화면
 
