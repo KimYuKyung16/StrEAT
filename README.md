@@ -1,6 +1,6 @@
 # 🌭StrEAT
 
-![홍보](https://github.com/user-attachments/assets/edbe23b5-b525-4bb2-958d-8b2abfe57211)
+![홍보](https://github.com/user-attachments/assets/cbaa5843-7a99-40de-90a7-187045451e90)
 
 <br />
 
@@ -59,8 +59,7 @@ $ cd ./backend
 ![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![TAILWIND CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) 
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -100,40 +99,40 @@ $ cd ./backend
 
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;"><b style="text-">지도 기반 실시간 점포 조회</b><br/>실시간으로 영업중인 점포 조회 가능</td>
-    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;"><b>영업 위치 간편 등록 & 영업 시작</b><br/>영업 시작 시 지도에 해당 점포 위치 표시</td>
-  </tr>
-  <tr>
-    <td style="width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/1e5d162d-6532-4468-995d-24ccd40dddf4" alt="지도 기반 실시간 점포 조회" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+    <td align="center" width=550px padding: 10px text-align: center;>
+      <img src="https://github.com/user-attachments/assets/7c2229e6-a3a8-4617-bbb4-02fc01cd0327" alt="지도 기반 실시간 점포 조회" style="width: 100%; height: 300px; object-fit: contain;">
+      <p>📃지도 기반 실시간 점포 조회</p>
+      <sub>실시간으로 영업중인 점포 조회 가능</sub>
     </td>
-    <td style="width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/59b06b88-a894-41a9-ab10-bbf7e3455c51" alt="영업 위치 간편 등록/영업 시작" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;"><b>주문/결제</b><br/>toss API를 이용한 결제 시스템</td>
-    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;"><b>주문 알림/주문 관리</b><br/>주문 관련 알림과 주문 내역을 확인하고 관리할 수 있는 주문 관리 시스템</td>
-  </tr>
-  <tr>
-    <td style="width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/5429f632-0f51-4eba-89bc-099122bab2a8" alt="주문/결제" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
-    </td>
-    <td style="width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/2a3e2021-9813-4752-bc22-15a7d0060055" alt="주문 알림" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
-      <img src="https://github.com/user-attachments/assets/a93f8623-0431-440f-ba9c-990a01fb7d62" alt="주문 관리" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+    <td align="center" width=550px text-align: center;>
+      <img src="https://github.com/user-attachments/assets/e7ecf1e2-d7d6-4f03-85df-4a4428bc44ac" alt="영업 위치 간편 등록/영업 시작" style="max-width: 100%; height: 300px; object-fit: contain;">
+      <p>📃영업 위치 간편 등록 & 영업 시작</p>
+      <sub>영업 시작 시 지도에 해당 점포 위치 표시</sub>
     </td>
   </tr>
   <tr>
-    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;"><b>푸드트럭 공고 자동화</b><br/>크롤링 해온 푸드트럭 공고 조회/공고 접수 시 인적사항을 기입하는 반복적인 작업을 자동화</td>
-    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;"><b>상권 리포트</b><br/>매출 관리 및 빅데이터 분석을 통한 가이드</td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/06e0d86e-9fce-47fa-878e-9148b8605ef5" alt="주문/결제" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+      <p>📃주문/결제</p>
+      <sub>toss API를 이용한 결제 시스템</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1169991f-ab07-450d-ae51-fe6d1b850af3" alt="주문 알림" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+      <img src="https://github.com/user-attachments/assets/4bf93b26-17dc-4a1d-ba0a-a3909a002932" alt="주문 관리" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+      <p>📃주문 알림/주문 관리</p>
+      <sub>주문 관련 알림과 주문 내역을 확인하고 관리할 수 있는 주문 관리 시스템</sub>
+    </td>
   </tr>
   <tr>
-    <td style="width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/e7b0bdea-a702-481d-a5e7-d6201846b6c0" alt="푸드트럭 공고 자동화" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/32636184-7fae-429e-9c12-28b20de210d7" alt="푸드트럭 공고 자동화" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+      <p>📃푸드트럭 공고 자동화</p>
+      <sub>크롤링 해온 푸드트럭 공고 조회/공고 접수 시 인적사항을 기입하는 반복적인 작업을 자동화</sub>
     </td>
-    <td style="width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/4ffcc3bb-6251-46c2-aee3-cea3696cfec7" alt="상권 리포트" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/17a46171-3bdb-456b-9d41-a0a24572ed30" alt="상권 리포트" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+      <p>📃상권 리포트</p>
+      <sub>매출 관리 및 빅데이터 분석을 통한 가이드</sub>
     </td>
   </tr>
 </table>
